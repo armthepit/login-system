@@ -1,0 +1,1 @@
+	<h2 class="text-center">Navigation Bar</h2>
