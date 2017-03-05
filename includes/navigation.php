@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 	<?php
 	?>
 	<!-- This the navigation bar. -->
@@ -18,3 +19,6 @@
 	      </ul>
 	   </div>
 	</nav>
+=======
+	<h2 class="text-center">Navigation Bar</h2>
+>>>>>>> f33b8a4652268602292b7d12f23e39d7226d603a
