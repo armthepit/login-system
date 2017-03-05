@@ -12,9 +12,5 @@
 	<link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-<<<<<<< HEAD
 	<!-- This is the header. -->
 	<h1 class="text-center">Welcome to the website</h1>
-=======
-	<h1>Welcome to the website</h1>
->>>>>>> f33b8a4652268602292b7d12f23e39d7226d603a
